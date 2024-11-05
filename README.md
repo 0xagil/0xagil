@@ -35,7 +35,7 @@
 - Machine learning for cybersecurity
 
 ### 📫 How to reach me
-- LinkedIn: [Jasper Braack](https://www.linkedin.com/in/jasper-braack-5b3b67278/)
+- LinkedIn: [Jasper Braack](https://www.linkedin.com/in/jasper-braack)
 
 <div align="center">
   <i>Yay</i>
